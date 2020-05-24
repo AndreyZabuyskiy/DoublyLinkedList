@@ -1,0 +1,5 @@
+﻿  Application.cpp
+  main.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\vcruntime_new.h(168,5): fatal error C1033: невозможно открыть базу данных программы "D:\Программирование\С++\ООП\Задание №15\doubly_linked_list\doubly_linked_list\Debug\vc142.pdb"
+  Создание кода...
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\vcruntime_new.h(168,5): fatal error C1033: невозможно открыть базу данных программы "D:\Программирование\С++\ООП\Задание №15\doubly_linked_list\doubly_linked_list\Debug\vc142.pdb"
